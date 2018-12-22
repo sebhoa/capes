@@ -1,6 +1,7 @@
-# Capes Nancy-Metz 2018
+# Capes 2018
 
 Le sujet est ici : [EP1_Info_2018.pdf][1]
+
 J'espère ne pas avoir fait trop de coquilles :laughing:
 
 ## Problème I
