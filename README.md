@@ -282,5 +282,5 @@ def allocation(l_intervalles):
     return alloc
 ```
 
-
+[1]:http://www4.ac-nancy-metz.fr/capesmath/data/uploads/EP1_info_2018.pdf
 
